@@ -1,0 +1,17 @@
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.deps.json
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.Core.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Entities.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.Core.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Entities.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.AssemblyInfo.cs
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.csproj.CopyComplete
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.runtimeconfig.json
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.DataAccess\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.genruntimeconfig.cache

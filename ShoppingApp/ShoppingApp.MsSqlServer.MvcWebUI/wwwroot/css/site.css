@@ -1,0 +1,8 @@
+﻿#tablo_baslik{
+    width: max-content;
+    height: max-content;
+    font-size: large;
+}
+#myShopIcon {
+    background-image: url("http://www.w3.org/2000/svg")
+}

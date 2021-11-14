@@ -1,0 +1,15 @@
+﻿@model ShoppingApp.MsSqlServer.MvcWebUI.Models.CategoryListViewModel
+
+
+<div class="list-group">
+    @foreach (var category in Model.categories)
+    {
+        var css = "list-group-item";
+        if (category.CategoryId == Model.currentCategory)
+        {
+            css += " active";
+        }
+
+        <a href="/product/index?category=@category.CategoryId" class="@css">@category.CategoryName</a>
+    }
+</div>

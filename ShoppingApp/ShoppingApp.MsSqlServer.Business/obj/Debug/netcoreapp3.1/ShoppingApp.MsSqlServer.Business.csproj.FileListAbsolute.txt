@@ -1,0 +1,16 @@
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.deps.json
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.Core.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Entities.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.DataAccess.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Entities.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\bin\Debug\netcoreapp3.1\ShoppingApp.Core.pdb
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.AssemblyInfo.cs
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.csproj.CopyComplete
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.dll
+C:\Users\yunus\source\repos\ShoppingApp\ShoppingApp.MsSqlServer.Business\obj\Debug\netcoreapp3.1\ShoppingApp.MsSqlServer.Business.pdb

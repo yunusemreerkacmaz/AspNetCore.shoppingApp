@@ -1,0 +1,31 @@
+﻿@model ShoppingApp.MsSqlServer.MvcWebUI.Models.ProductAddViewModel
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<h1 class="jumbotron text-center">Ürün Ekle</h1>
+
+<form asp-controller="Admin" asp-action="Add" method="post">
+    <div class="form-group">
+        <label asp-for="Product.ProductName"></label>
+        <input asp-for="Product.ProductName" class="form-control" placeholder="Ürün Adı" />
+        <span asp-validation-for="Product.ProductName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.CategoryId"></label>
+        <select asp-for="Product.CategoryId" asp-items="@(new SelectList(Model.Categories,"CategoryId","CategoryName"))" class="form-control" placeholder="Category Id"></select>
+        <span asp-validation-for="Product.CategoryId"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.UnitPrice"></label>
+        <input asp-for="Product.UnitPrice" class="form-control" placeholder="Ürün Fiyatı" />
+        <span asp-validation-for="Product.UnitPrice"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Product.UnitInStock"></label>
+        <input asp-for="Product.UnitInStock" class="form-control" placeholder="Ürün Stok Adedi" />
+        <span asp-validation-for="Product.UnitInStock"></span>
+    </div>
+    <input type="submit" value="Ekle" class="btn btn-xs btn-success" />
+</form>

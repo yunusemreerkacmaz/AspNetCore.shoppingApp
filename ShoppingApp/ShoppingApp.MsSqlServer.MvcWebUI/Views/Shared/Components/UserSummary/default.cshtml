@@ -1,0 +1,17 @@
+﻿@model ShoppingApp.MsSqlServer.MvcWebUI.Models.UserDetailsViewModel
+
+<ul class="dropdown-menu">
+    @if (!string.IsNullOrEmpty(@Model.UserName))
+    {
+        <li>
+            <a class="badge-light"> Hoşgeldin <b>@Model.UserName</b></a>
+        </li>
+
+        <div class="dropdown-divider"></div>
+
+        <li>
+            <center> <a class="btn btn-primary " asp-controller="Account" asp-action="LogOff">LogOff</a></center>
+        </li>
+    }
+
+</ul>

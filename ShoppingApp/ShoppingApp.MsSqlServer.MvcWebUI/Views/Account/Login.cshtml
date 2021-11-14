@@ -1,0 +1,59 @@
+﻿@using System.Threading.Tasks
+@model ShoppingApp.MsSqlServer.MvcWebUI.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<div class="container offset-3">
+    <div class="card bg-light mb-3" style="max-width: 35rem;">
+        <div class="card-header">Giriş</div>
+        <div class="card-body">
+            <form asp-controller="Account" asp-action="Login" method="post" class="form-horizontal" role="form">
+                <div style="margin-bottom:25px;" class="input-group">
+                    <span class="input-group-addon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                            <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+                        </svg>
+                    </span>
+                    <input asp-for="UserName" class="form-control" placeholder="İsim" />
+                    <span asp-validation-for="UserName"></span>
+                </div>
+
+                <div style="margin-bottom:25px;" class="input-group">
+                    <span class="input-group-addon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" fill="currentColor" class="bi bi-lock-fill" viewBox="0 0 16 16">
+                            <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z" />
+                        </svg>
+                    </span>
+                    <input asp-for="Password" class="form-control" placeholder="Şifre" />
+                    <span asp-validation-for="Password"></span>
+                </div>
+
+                <div class="input-group">
+                    <div class="form-check">
+                        <label>
+                            <input asp-for="RememberMe" /> Beni Hatırla
+                        </label>
+                    </div>
+                </div>
+
+                <div style="margin-top:10px" class="form-group">
+                    <div class="col-sm-12 controls">
+                        <input type="submit" class="btn btn-success" value="Login" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-12 controls">
+                        <div style="border-top:1px solid#888; padding-top:15px; font-size:85%;">
+                            Kaydol
+                            <a asp-controller="Account" asp-action="Register">Kaydolmak için Tıklayın</a>
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+
